@@ -1,0 +1,94 @@
+/* style.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fdfaf6;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #3e5641;
+  color: #fff;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  font-family: 'Georgia', serif;
+}
+
+.tagline {
+  font-style: italic;
+  font-size: 1.2em;
+  color: #e6e6e6;
+}
+
+main {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.bab {
+  margin-bottom: 60px;
+}
+
+.bab h2 {
+  font-size: 1.8em;
+  color: #3e5641;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #dcdcdc;
+  padding-bottom: 5px;
+}
+
+.bab p {
+  margin-top: 0;
+  font-size: 1.05em;
+  text-align: justify;
+}
+
+.foto-cerita {
+  display: block;
+  max-width: 100%;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.epilog {
+  background-color: #f0f4ed;
+  padding: 30px;
+  border-left: 5px solid #3e5641;
+  margin-top: 60px;
+  border-radius: 4px;
+}
+
+.epilog h2 {
+  color: #3e5641;
+  margin-top: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #3e5641;
+  color: #fff;
+  font-size: 0.9em;
+  margin-top: 60px;
+}
+
+.kutipan {
+  background-color: #f0f4ed;
+  border-left: 4px solid #3e5641;
+  padding: 15px 20px;
+  margin: 30px 0;
+  font-style: italic;
+  color: #3a3a3a;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
